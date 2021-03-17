@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mateusduarte-max
 - 👀 I’m interested in aprender programação
 - 🌱 I’m currently learning  a linguagem Python
- 💞️ I’m looking to collaborate e aprender      
+-  💞️ I’m looking to collaborate e aprender      
 - 📫 How to reach me mateusduarte1984@gmail.com  
 
 <!---
