@@ -1,5 +1,5 @@
 - Olá, sou Mateus Duarte.
-- Sou estudante de linguagem Python.
+- Sou estudante de análise e desenvolvimento de sistemas (especificamente da linguagem python).
 - Este é meu repositório, fique a vontade para contribuir.
 - Segue meus contatos: mateusduarte1984@gmail.com ou https://www.linkedin.com/in/mateus-duarte-75678224/
   
