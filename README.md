@@ -1,7 +1,7 @@
-- Olá, sou Mateus Duarte.
-- Sou Engenheiro Analitico.
-- Este é meu repositório, fique a vontade para contribuir.
-- Segue meus contatos: mateusduarte1984@gmail.com ou https://www.linkedin.com/in/mateus-duarte-75678224/
+- Hello, I'm Mateus Duarte.
+- I'm an Analytical Engineer.
+- This is my repository, feel free to contribute.
+- Follow my contacts: mateusduarte1984@gmail.com or https://www.linkedin.com/in/mateus-duarte-75678224/
   
   
 
